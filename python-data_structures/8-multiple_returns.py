@@ -4,8 +4,8 @@ def multiple_returns(sentence):
     if not sentence:  
         return (0, None)
     
-    leng = len(sentence)  
+    length = len(sentence)  
     first_char = sentence[0]  
 
-    return (leng, first_char)
+    return (length, first_char)
 
