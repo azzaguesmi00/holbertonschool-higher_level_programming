@@ -12,7 +12,3 @@ class Square:
     attributes and methods for handling square-related operations.
     """
     pass
-
-
-if __name__ == "__main__":
-    pass
