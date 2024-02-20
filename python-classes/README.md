@@ -1,1 +1,1 @@
-![alt text](image.png)
+https://s3.eu-west-3.amazonaws.com/hbtn.intranet.project.files/holbertonschool-higher-level_programming+/247/oop-meme.jpg
