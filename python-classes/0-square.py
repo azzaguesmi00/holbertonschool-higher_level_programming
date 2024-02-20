@@ -11,4 +11,6 @@ class Square:
     This class is currently empty and will be extended to include
     attributes and methods for handling square-related operations.
     """
+    
+    
     pass
