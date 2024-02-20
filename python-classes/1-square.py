@@ -20,7 +20,4 @@ class Square:
             size (int): The size of the square.
         """
         self.__size = size
-
-
-if __name__ == "__main__":
-    pass
+        pass
