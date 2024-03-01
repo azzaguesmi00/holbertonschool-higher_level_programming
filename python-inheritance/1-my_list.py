@@ -8,7 +8,7 @@ class MyList(list):
         sorted_lis (list): An instance of a list.
     """
     
-    def print_sorted(self):
+def print_sorted(self):
 
         """
         Print the list, but sorted 
