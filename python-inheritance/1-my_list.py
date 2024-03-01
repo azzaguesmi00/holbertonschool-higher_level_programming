@@ -1,5 +1,13 @@
 #!/usr/bin/python3
 class MyList(list):
+     """
+    A subclass of list that provides a method to
+    print a sorted version of itself.
+
+    Attributes:
+        sorted_lis (list): An instance of a list.
+    """
+    
     def print_sorted(self):
 
         """
@@ -8,4 +16,4 @@ class MyList(list):
 
         sorted_lis = self.copy()
         sorted_lis.sort()
-        print(sorted_lis)
+        print(sorted(self))
