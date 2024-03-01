@@ -1,12 +1,12 @@
 #!/usr/bin/python3
 """
-geometry module
-yikes!!!
+base_geometry class
 """
+
 
 class BaseGeometry:
     """
-    A class 
-    Attributes: nothing yet
+    A class
+    Attribute: none
     """
     pass
