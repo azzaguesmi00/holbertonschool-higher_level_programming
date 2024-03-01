@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
-    same_class 
-    is it?
+same_class 
+is it?
 """
 
 def is_same_class(obj, a_class):
