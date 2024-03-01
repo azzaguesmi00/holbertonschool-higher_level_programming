@@ -1,16 +1,21 @@
 #!/usr/bin/python3
+"""
+    A subclass of list that provides a method to
+    print a sorted version of itself.
+    """
+
+
 class MyList(list):
-     """
+    """
     A subclass of list that provides a method to
     print a sorted version of itself.
 
     Attributes:
-        sorted_lis (list): An instance of a list.
+        sorted_list (list): An instance of a list.
     """
-    
-def print_sorted(self):
 
+    def print_sorted(self):
         """
-        Print the list, but sorted 
+        Prints the sorted version of the list.
         """
         print(sorted(self))
