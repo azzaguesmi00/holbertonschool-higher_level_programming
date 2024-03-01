@@ -12,7 +12,8 @@ def lookup(obj):
     obj: object to inspect
     
     Returns:
-    A list containing the attributes and methods 
+    A list containing the attributes 
+    and methods 
     of the object
     
     """
