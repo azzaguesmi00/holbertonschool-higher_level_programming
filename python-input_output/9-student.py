@@ -4,7 +4,14 @@
 class student:
     """
     Representation of a student
+    that defines a student
+    public instance attributes:
+    first_name -- str
+    last_name -- str
+    age -- int
     """
+    
+    
     def __init__(self , first_name, last_name, age):
         """Initializes the student"""
         self.first_name = first_name
